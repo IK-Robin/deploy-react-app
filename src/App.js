@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        deploy reactf
+        deploy react app
         </a>
       </header>
     </div>
